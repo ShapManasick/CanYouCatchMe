@@ -1,0 +1,15 @@
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\bin\Debug\CanYouCatchMe!.exe.config
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\bin\Debug\CanYouCatchMe!.exe
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\bin\Debug\CanYouCatchMe!.pdb
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe_.ThisIsHellMan.resources
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe_.Properties.Resources.resources
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe!.csproj.GenerateResource.Cache
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe!.exe
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe!.pdb
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\bin\Debug\CanYouCatchMe!.exe.manifest
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\bin\Debug\CanYouCatchMe!.application
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe!.TrustInfo.xml
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe!.exe.manifest
+c:\users\#shap_manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe!.application
+C:\Users\#Shap_Manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe!.csprojResolveAssemblyReference.cache
+C:\Users\#Shap_Manasick\documents\visual studio 2017\Projects\CanYouCatchMe!\CanYouCatchMe!\obj\Debug\CanYouCatchMe_.evil.resources
